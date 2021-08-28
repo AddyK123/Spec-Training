@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px 10px;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px 5px 5px;
+  background-color: #5caaee;
+  color: #ffffff;
+}
+
+.SubButton{
+  padding: 5px 5px;
+  background: rgb(141, 231, 119);
+  font-weight: bold;
+}
+
+.DelButton{
+  padding: 5px 5px;
+  background: rgb(231, 119, 119);
+  font-weight: bold;
+}
+
+.input {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  margin: 10px 10px
+}
